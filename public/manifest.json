@@ -1,0 +1,20 @@
+{
+  "short_name": "Eduguide App",
+  "name": "Eduguide Web App Ver 1",
+  "icons": [
+    {
+      "src": "logo192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "logo315.png",
+      "type": "image/png",
+      "sizes": "315x315"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}

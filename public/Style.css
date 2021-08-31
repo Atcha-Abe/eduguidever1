@@ -1,0 +1,119 @@
+.menu-ul{
+        list-style-type: none;
+        margin: -10vw;
+        margin-bottom: 7vw;
+        margin-left: 8vw;
+        font-family: Ruda;
+        font-size: 1.3vw;
+        color: #16367C;
+}
+.menu-ul li {display: inline-block;margin-left: 6.99vw}
+
+img {
+        width: 17.5%;
+        height: 17.5%;
+}
+
+h1 {
+        font-family: Ruda;
+        font-size: 4vw;
+        color: #16367C;
+        text-align: center;
+}
+p{
+        font-family: Ruda;
+        font-size: 1.65vw;
+        color: #16367C;
+        text-align: center;
+        margin-left: 4em;
+        margin-right: 4em;
+}
+
+label{
+        font-family: Ruda;
+        font-size: 1.65vw;
+        color: #16367C;
+}
+
+.sign-form{
+        font-family: Ruda;
+        font-size: 1.65vw;
+        color: #16367C;
+        margin-left: 20em;
+}
+
+button {
+        font-family: Ruda;
+        font-size: 1.65vw;
+        background-color: #16367C;
+        color: #F19336;
+        padding: 1vw 2vw;
+        margin-left: 26em;
+        border: none;
+}
+
+.reg-btn {
+        font-family: Ruda;
+        font-size: 1.65vw;
+        background-color: #16367C;
+        color: #FFFF;
+        padding: 1vw 2vw;
+        margin-left:6.7em;
+        border: none;
+}
+
+.sub-btn {
+        font-family: Ruda;
+        font-size: 1.65vw;
+        background-color:#F19336;
+        color: #16367C;
+        padding: 1vw 2vw;
+        border: none;
+}
+
+.login-item{
+        list-style-type: none;
+        margin: -6vw;
+        margin-bottom: 7vw;
+        margin-left: 73.5vw;
+        font-family: Ruda;
+        font-size: 1.3vw;
+        color: #16367C;
+}
+
+h6 {
+        font-family: Ruda;
+        font-size: 1.6vw;
+        margin: -4vw;
+        color: #16367C;
+        text-align: center;
+}
+
+.names-ul{
+        list-style-type: none;
+        margin-bottom: 7vw;
+        font-family: Ruda;
+        font-size: 1.56vw;
+        color: #16367C;
+        text-align: center;
+        margin-right: 2em;
+}
+.names-ul li {display: inline-block;margin-left: 3.6vw}
+
+.devs {
+        display: inline-block;
+        margin-left: 4.7vw;
+        width: 15%;
+}
+.social-icons {
+        display: inline-block;
+        vertical-align: middle;
+        margin-left: 1vw;
+        width: 5%;
+}
+
+input {
+        color: #16367C;
+        margin-left: 5vw;
+        margin-bottom: 1vw;
+}
