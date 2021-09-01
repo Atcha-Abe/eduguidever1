@@ -19,7 +19,7 @@ export default class Contact extends Component {
                      Send your feedback here
                      <br></br>
                      <br></br>
-                    <input type="text" name="name"/>
+                    <input type="text" className="contact-field" name="name"/>
                 </label>
                 <br></br>
                 <br></br>

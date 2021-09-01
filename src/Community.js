@@ -3,9 +3,14 @@ export default class Community extends Component {
     render() {
 
         return (
-            <h1>
-               Community
-            </h1>
+            <div align="center">
+                <h1>
+                    Community
+                </h1>
+                <img src="./icons/Line.png" className="line"></img>
+
+                
+            </div>
         )
     }
 }

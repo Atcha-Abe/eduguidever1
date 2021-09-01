@@ -2,12 +2,23 @@
         list-style-type: none;
         margin: -10vw;
         margin-bottom: 7vw;
-        margin-left: 8vw;
+        margin-left: 10%;
         font-family: Ruda;
         font-size: 1.3vw;
         color: #16367C;
 }
 .menu-ul li {display: inline-block;margin-left: 6.99vw}
+
+
+li {
+        list-style-type: none;
+}
+
+.about-link {
+        margin-top: -4%;
+        margin-left: 21.5%;
+}
+.about-link li {display: inline-block;margin-left: 6.99vw}
 
 img {
         width: 17.5%;
@@ -19,27 +30,22 @@ h1 {
         font-size: 4vw;
         color: #16367C;
         text-align: center;
+        margin-bottom: 0.5%;
 }
 p{
         font-family: Ruda;
         font-size: 1.65vw;
         color: #16367C;
         text-align: center;
-        margin-left: 4em;
-        margin-right: 4em;
+        padding: 0.5vw 8vw;
 }
 
-label{
-        font-family: Ruda;
-        font-size: 1.65vw;
-        color: #16367C;
-}
 
 .sign-form{
         font-family: Ruda;
         font-size: 1.65vw;
         color: #16367C;
-        margin-left: 20em;
+        margin-left: 35%;
 }
 
 button {
@@ -47,8 +53,7 @@ button {
         font-size: 1.65vw;
         background-color: #16367C;
         color: #F19336;
-        padding: 1vw 2vw;
-        margin-left: 26em;
+        padding: 0.9vw 2vw;
         border: none;
 }
 
@@ -57,30 +62,34 @@ button {
         font-size: 1.65vw;
         background-color: #16367C;
         color: #FFFF;
-        padding: 1vw 2vw;
-        margin-left:6.7em;
+        padding: 0.5vw 2vw;
         border: none;
+        border-radius: 3vw;
+        font-weight:600;
 }
-
 .sub-btn {
         font-family: Ruda;
         font-size: 1.65vw;
         background-color:#F19336;
         color: #16367C;
-        padding: 1vw 2vw;
+        padding: 0.5vw 2vw;
         border: none;
+        border-radius: 3vw;
+        font-weight:600;
 }
 
 .login-item{
         list-style-type: none;
         margin: -6vw;
         margin-bottom: 7vw;
-        margin-left: 73.5vw;
+        margin-left: 73%;
+        margin-right: 0vw;
         font-family: Ruda;
         font-size: 1.3vw;
         color: #16367C;
 }
 
+.login-item li {display: inline-block;margin-left: 1vw}
 h6 {
         font-family: Ruda;
         font-size: 1.6vw;
@@ -96,24 +105,70 @@ h6 {
         font-size: 1.56vw;
         color: #16367C;
         text-align: center;
-        margin-right: 2em;
 }
-.names-ul li {display: inline-block;margin-left: 3.6vw}
+.names-ul li {display: inline-block;margin-left: 3vw}
 
 .devs {
         display: inline-block;
-        margin-left: 4.7vw;
+        margin-left: 4.5%;
         width: 15%;
 }
 .social-icons {
         display: inline-block;
-        vertical-align: middle;
-        margin-left: 1vw;
-        width: 5%;
+        margin-left: 1%;
+        width: 4.5%;
 }
 
-input {
+label {
+        font-family: Ruda;
+        font-size: 1.65vw;
         color: #16367C;
-        margin-left: 5vw;
+}
+
+.field {
+        font-family: Ruda;
+        font-size: 1.65vw;
+        color: #16367C;
+        margin-left: 5%;
         margin-bottom: 1vw;
+        border-top: none;
+        border-right: none;
+        border-left: none;
+        border-width:unset;
+        width: 25%;
+        border-color: #16367C;
+        display: inline-block;
+}
+.line {
+        width: 75%;
+        margin-bottom: 1vw;
+}
+
+.contact-field {
+        font-family: Ruda;
+        font-size: 1.65vw;
+        color: #16367C;
+        width: 25%;
+        height: 5em;
+        border: thick;
+        border-color: #16367C;
+        border-style: solid;        
+        text-align:initial;
+}
+
+.blog-field {
+        font-family: Ruda;
+        font-size: 1.65vw;
+        color: #16367C;
+        width: 40%;
+        height: 3em;
+        border: thick;
+        border-color: #16367C;
+        border-style: solid;        
+        text-align:initial;
+}
+
+.small-text {
+        font-size: 1.2vw;
+        color:#F19336;
 }
